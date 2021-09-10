@@ -2,7 +2,7 @@
 
 Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mbfaria.mbfaria)
 
-My name is **Matheus Brito Faria** and I like to turn data into useful information, or let the computer do it.
+My name is **Matheus Brito Faria** and I like to turn data into useful information, or to train machines to do so.
 
 💻 **Abstract:**
 
